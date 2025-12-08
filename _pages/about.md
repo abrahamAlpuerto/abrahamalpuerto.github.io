@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hey, I am a Computer and Systems Engineering student at **Rensselaer Polytechnic Institute (RPI)**, currently transitioning into the accelerated Master's program for admit Spring 2026. My specialization is in applications of **Machine Learning** and **Engineering AI Systems**. I am particulary interested in **Agentic Workflows**, **Forcasting Systems**, **Computer Vision**, and the **Hardware-Software Integrations** applications of AI/ML.
+Hey, I am a Computer and Systems Engineering student at **Rensselaer Polytechnic Institute (RPI)**, currently transitioning into the accelerated Master's program for admit Spring 2026. My specialization is in applications of **Machine Learning** and **Engineering AI Systems**.
 
 I currently am a research assistant at Columbia Secure FinAI Lab where I just had a paper accepted to the **NeurIPS 2025 Workshop**. At the lab most of my work involves working on an AI agent that leverages a knowledge base database, multi-agent communications like **MCP** and **A2A** protocols, and fine-tuning with parameter efficient techniques (PEFT).
 

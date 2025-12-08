@@ -218,17 +218,5 @@
       "fluency": "Native/Fluent",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Research Interests",
-      "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Deep Learning",
-        "Autonomous Agents",
-        "Financial Engineering",
-        "Computer Vision"
-      ]
-    }
   ]
 }
