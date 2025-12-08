@@ -52,33 +52,52 @@
         "Engineered a data pipeline to preprocess 10+ years of daily data for 50+ equities.",
         "Created 18 distinct predictive indicators through feature engineering."
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Canine Image Classification",
+      "summary": "Benchmarked KNN vs CNN on a custom dataset of 2,000 images.",
+      "highlights": [
+        "Custom 5-layer CNN in PyTorch (97.02% accuracy)",
+        "PCA + KNN implementation (93.03% accuracy)"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "url": "https://github.com/abrahamAlpuerto/IML_Project"
+    },
+    {
+      "name": "Image Captioning Transformer",
+      "summary": "End-to-end image-to-text pipeline.",
+      "highlights": [
+        "Vision Transformer (ViT) Encoder + Transformer Decoder",
+        "Strong BLEU-4 score on Flickr8K",
+        "Mixed-precision training optimization"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "url": "#"
     },
     {
       "name": "Smart Wheelchair Project",
-      "position": "Backend Developer",
-      "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2024-01-01",
       "summary": "IoT and Software-Hardware Integration.",
       "highlights": [
         "Developed a scalable Flask backend to ingest real-time sensor data.",
         "Designed relational MySQL database schema for user profiles and large-scale sensor readings.",
         "Built secure RESTful APIs with JWT authentication."
-      ]
+      ],
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "url": "#"
     }
   ],
   "volunteer": [
     {
-      "organization": "Organization Name",
-      "position": "Volunteer Position",
-      "url": "https://example.com",
-      "startDate": "2020-01-01",
-      "endDate": "2021-01-01",
-      "summary": "Description of what you did...",
-      "highlights": [
-        "Achievement 1",
-        "Achievement 2"
-      ]
+      "organization": "Abundant Life Outreach Syraucse",
+      "position": "Volunteer",
+      "startDate": "2012",
+      "endDate": "2021",
+      "summary": "Gave out meals to people in need around the city of syracuse. Most work was done on Thanksgiving, Christmas, and other hoildays. Provided food for thousands of people every outreach event!"
     }
   ],
   "education": [
@@ -175,7 +194,7 @@
         "Scikit-learn",
         "Pandas",
         "NumPy",
-        "LLMs (RAG, LoRA)"
+        "LLMs (RAG, LoRA, MCP, A2A)"
       ]
     },
     {
@@ -210,31 +229,6 @@
         "Financial Engineering",
         "Computer Vision"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Canine Image Classification",
-      "summary": "Benchmarked KNN vs CNN on a custom dataset of 2,000 images.",
-      "highlights": [
-        "Custom 5-layer CNN in PyTorch (97.02% accuracy)",
-        "PCA + KNN implementation (93.03% accuracy)"
-      ],
-      "startDate": "2024-01-01",
-      "endDate": "2024-05-01",
-      "url": "#"
-    },
-    {
-      "name": "Image Captioning Transformer",
-      "summary": "End-to-end image-to-text pipeline.",
-      "highlights": [
-        "Vision Transformer (ViT) Encoder + Transformer Decoder",
-        "Strong BLEU-4 score on Flickr8K",
-        "Mixed-precision training optimization"
-      ],
-      "startDate": "2024-01-01",
-      "endDate": "2024-05-01",
-      "url": "#"
     }
   ]
 }
