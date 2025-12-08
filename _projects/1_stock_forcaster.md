@@ -27,7 +27,7 @@ Working in a small team, we created a full-stack solution from raw data ingestio
 
 ### Real-World Performance
 * **Quantitative Success:** The model achieved a **< 2% Mean Absolute Percentage Error (MAPE)** on the 40-day prediction window, a result considered exceptional by industry standards for mid-cap equities.
-* **Capital Efficiency:** In a 2-month live-fire test, the strategy generated a **560% Return on Investment (ROI)**, scaling a test account from 300 to 2,000 dollars. Achieving this aggressive return, we trained the forcaster to predict 10 days in the future to execute quicker options trades instead of longer term holds.
+* **Capital Efficiency:** In a 2-month live-fire test, the strategy generated a **560% Return on Investment (ROI)**, scaling a test account from 300 to 2,000 dollars. Achieving this aggressive return, we trained the forecaster to predict 10 days in the future to execute quicker options trades instead of longer term holds.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
