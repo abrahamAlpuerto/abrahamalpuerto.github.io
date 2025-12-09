@@ -4,7 +4,7 @@ title: Quantitative Stock Forecasting Engine
 description: LSTM & Attention-based model with real-capital validation
 img: assets/img/stock/graph1.png
 importance: 1
-category: work
+category: fun
 ---
 
 **Role:** ML Researcher
